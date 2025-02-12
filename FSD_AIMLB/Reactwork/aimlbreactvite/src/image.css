@@ -1,0 +1,17 @@
+.imageCard{
+    height:250px;
+    width:200px;
+    border:2px solid red;
+}
+
+.catdiv{
+    border:1px solid black;
+    height:100px;
+    width:100px;
+    margin-left: 40px;
+
+}
+
+.buttondiv{
+    padding-top:150px;
+}
